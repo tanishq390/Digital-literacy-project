@@ -104,7 +104,7 @@ This project helped me develop essential digital skills and improved my ability 
 
 ##  Submission
 
- **GitHub Repository Link:**[https://github.com/samarth25bai/Digital-Literacy-Project-Report](https://github.com/tanishq390/Digital-literacy-project)
+ **GitHub Repository Link:**(https://github.com/tanishq390/Digital-literacy-project)
 
 ---
 
